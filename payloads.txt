@@ -13,3 +13,4 @@
 ////%5cexample.com
 /////example.com
 /////example.com/
+https://evil.com
