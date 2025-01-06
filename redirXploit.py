@@ -14,7 +14,6 @@ import logging
 import sys
 from rich import box 
 
-
 console = Console()
 
 #  logging
