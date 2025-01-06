@@ -1,0 +1,15 @@
+/%09/example.com
+/%2f%2fexample.com
+/%2f%2f%2fbing.com%2f%3fwww.omise.co
+/%2f%5c%2f%67%6f%6f%67%6c%65%2e%63%6f%6d/
+/%5cexample.com
+/%68%74%74%70%3a%2f%2f%67%6f%6f%67%6c%65%2e%63%6f%6d
+/.example.com
+//%09/example.com
+//%5cexample.com
+///%09/example.com
+///%5cexample.com
+////%09/example.com
+////%5cexample.com
+/////example.com
+/////example.com/
