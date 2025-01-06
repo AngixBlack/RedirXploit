@@ -40,7 +40,7 @@ This tool is intended for **ethical use only**. Please ensure that you have perm
 To get started, clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/yourusername/RedirXploit.git
+git clone https://github.com/AngixBlack/RedirXploit.git
 cd RedirXploit
 chmod +x setup.py
 python3 setup.py install 
