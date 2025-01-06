@@ -54,7 +54,7 @@ python3 setup.py install
 2. Run the following command:
 
 ```bash
-python scanner.py
+redirx  -f urls.txt -t 30  
 ```
 
 ---
