@@ -202,8 +202,8 @@ def display_help_menu():
     console.print(
         Panel(
             "[bold white]Usage Examples:[/bold white]\n"
-            "[green]python scanner.py -u https://example.com[/green]\n"
-            "[green]python scanner.py -f urls.txt -t 20 -o results.json[/green]",
+            "[green] redirx -u https://example.com[/green]\n"
+            "[green] redirx -f urls.txt -t 20 -o results.json[/green]",
             title="[bold yellow]Usage[/bold yellow]",
             style="bold cyan",
             width=70,
